@@ -1,0 +1,2 @@
+#!/bin/sh
+cd ~/www/my-lab/appercut/service/code-generator && npm run dev
