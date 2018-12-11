@@ -1,0 +1,10 @@
+{
+  "groups": {
+    "default": {
+      "packages": [
+        "appercut-ui/package.json",
+        "service/code-generator/package.json"
+      ]
+    }
+  }
+}
